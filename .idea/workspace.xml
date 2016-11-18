@@ -2,41 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75833208-593a-432f-a716-a9c6fed66274" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/10.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/11.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/12.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/13.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/14.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/15.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/16.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/17.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/18.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/19.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/20.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/21.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/22.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/23.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/24.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/25.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/26.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/27/27.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/27/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/28.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/6.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/7.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/8.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-11/9.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-11/1/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-11/2/2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-11/3/3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-11/3/text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-11/7/form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-11/7/func.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-11/7/test.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="homworks.iws" />
@@ -287,16 +255,6 @@
               <option name="myItemId" value="homworks" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homworks" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="04-11" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
@@ -392,6 +350,16 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homworks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -478,12 +446,12 @@
       <workItem from="1477734819347" duration="161000" />
       <workItem from="1478614733955" duration="17827000" />
       <workItem from="1478779556044" duration="75285000" />
-      <workItem from="1479334394569" duration="11391000" />
+      <workItem from="1479334394569" duration="13483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109005000" />
+    <option name="totallyTimeSpent" value="111097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
